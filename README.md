@@ -15,7 +15,7 @@ This module allows you to discover your Sphero BB-8 droid address using your dev
 ## How?
 
 ```javascript
-var discovery = require('bbeight-discovery');
+var discovery = require('bbeight-discovery')(theDroidYouReLookingFor);
 
 function theDroidYouReLookingFor(droid) {
   console.log(droid.address); //'ca:28:c6:48:cf:26'
