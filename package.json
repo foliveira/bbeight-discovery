@@ -10,9 +10,6 @@
     "url": "https://github.com/foliveira/bbeight-discovery/issues"
   },
   "main": "index.js",
-  "scripts": {
-    "test": "exit 1"
-  },
   "keywords": [
     "bb-8",
     "bb8",
@@ -31,9 +28,6 @@
   ],
   "author": "Fábio Oliveira <fabio.an.oliveira@gmail.com>",
   "license": "MIT",
-  "devDependencies": {
-    "tape": "^4.2.2"
-  },
   "dependencies": {
     "noble": "^1.2.1"
   }
