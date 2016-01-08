@@ -1,6 +1,6 @@
 {
   "name": "bbeight-discovery",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically returns the address of your Sphero BB8 droid",
   "repository": {
     "type": "git",
